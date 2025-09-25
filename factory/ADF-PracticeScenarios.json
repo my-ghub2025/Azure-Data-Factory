@@ -1,0 +1,9 @@
+{
+	"name": "ADF-PracticeScenarios",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e47e241-74b1-499e-bae2-ad6c73fc7b3f",
+		"tenantId": "f0e3bb44-3815-46a3-a8de-1a55d04279aa"
+	}
+}
